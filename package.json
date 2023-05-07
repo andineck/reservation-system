@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "hookrouter": "^1.2.3",
     "install": "^0.12.2",
-    "luxon": "^1.21.2",
+    "luxon": "^1.28.1",
     "node-sass": "^4.13.0",
     "npm": "^6.9.2",
     "pg-promise": "^10.2.1",
